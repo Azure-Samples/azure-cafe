@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<weblogic-web-app
+	xmlns="http://www.bea.com/ns/weblogic/weblogic-web-app"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.bea.com/ns/weblogic/weblogic-web-app http://www.bea.com/ns/weblogic/weblogic-web-app/1.0/weblogic-web-app.xsd">
+	<session-descriptor>
+		<persistent-store-type>jdbc</persistent-store-type>
+		<persistent-store-pool>jdbc/WebLogicCafeDB</persistent-store-pool>
+		<debug-enabled>true</debug-enabled>
+	</session-descriptor>
+</weblogic-web-app>
