@@ -1,57 +1,10 @@
-# Project Name
+# Azure Cafe: Jakarta/Java EE on Azure Samples
 
-(short, 1-3 sentenced, description of the project)
+## Overview
 
-## Features
+This repository contains sample projects about a basic Jakarta/Java EE application used throughout Jakarta EE on Azure demos.
+Below table shows the list of samples for different Jakarta/Java EE application servers.
 
-This project framework provides the following features:
-
-* Feature 1
-* Feature 2
-* ...
-
-## Getting Started
-
-### Prerequisites
-
-(ideally very short, if any)
-
-- OS
-- Library version
-- ...
-
-### Installation
-
-(ideally very short)
-
-- npm install [package name]
-- mvn install
-- ...
-
-### Quickstart
-(Add steps to get up and running quickly)
-
-1. git clone [repository clone url]
-2. cd [repository name]
-3. ...
-
-
-## Demo
-
-A demo app is included to show how to use the project.
-
-To run the demo, follow these steps:
-
-(Add steps to start up the demo)
-
-1.
-2.
-3.
-
-## Resources
-
-(Any additional resources or related projects)
-
-- Link to supporting information
-- Link to similar sample
-- ...
+| Sample                           | Description                                | Guide                            |
+|----------------------------------|--------------------------------------------|----------------------------------|
+| [`weblogic-cafe`](weblogic-cafe) | A basic Jakarta/Java EE application used throughout WebLogic on Azure demos. | TODO |
