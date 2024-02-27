@@ -3,6 +3,13 @@
 ## Overview
 
 This repository contains sample projects about a basic Jakarta/Java EE application used throughout Jakarta EE on Azure demos.
+
+Clone the samples to your local machine using the following command:
+
+```bash
+git clone --recurse-submodules https://github.com/Azure-Samples/azure-cafe.git
+```
+
 Below table shows the list of samples for different Jakarta/Java EE application servers.
 
 | Sample                           | Description                                | Usage                            |
