@@ -1,0 +1,3 @@
+[submodule "websphere-cafe"]
+	path = websphere-cafe
+	url = https://github.com/Azure-Samples/websphere-cafe
